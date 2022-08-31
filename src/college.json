@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "name": "Hills-Stehr",
+    "year_founded": 2001,
+    "city": "a",
+    "state": "Manipur",
+    "country": "India",
+    "courses": [
+      "Artifical Intelligence and Data Science",
+      "Computer Science and Engineering",
+      "Information Techology",
+      "Food Technology",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Legros-Lemke",
+    "year_founded": 2010,
+    "city": "orci",
+    "state": "Odisha",
+    "country": "India",
+    "courses": [
+      "Food Technology",
+      "Information Techology",
+      "Computer Science and Engineering",
+      "Bio-Technology",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Kshlerin-Schroeder",
+    "year_founded": 1997,
+    "city": "quam",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "courses": [
+      "Aerospace Engineering",
+      "Electrical and Electronics Engineering",
+      "Automobile Engineering",
+      "Bio-Chemistry",
+      "Food Technology"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Lemke-Wehner",
+    "year_founded": 2010,
+    "city": "ante",
+    "state": "Arunachal Pradesh",
+    "country": "India",
+    "courses": [
+      "Electrical and Electronics Engineering",
+      "Artifical Intelligence and Data Science",
+      "Food Technology",
+      "Automobile Engineering",
+      "Computer Science and Engineering"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Hyatt, Powlowski and Oberbrunner",
+    "year_founded": 1987,
+    "city": "platea",
+    "state": "Haryana",
+    "country": "India",
+    "courses": [
+      "Artifical Intelligence and Data Science",
+      "Automobile Engineering",
+      "Bio-Chemistry",
+      "Civil Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Waters, Okuneva and Wuckert",
+    "year_founded": 2011,
+    "city": "euismod",
+    "state": "Punjab",
+    "country": "India",
+    "courses": [
+      "Computer Science and Engineering",
+      "Bio-Chemistry",
+      "Civil Engineering",
+      "Bio-Technology",
+      "Electrical and Electronics Engineering"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Littel, Huel and Windler",
+    "year_founded": 2005,
+    "city": "dignissim",
+    "state": "Goa",
+    "country": "India",
+    "courses": [
+      "Automobile Engineering",
+      "Civil Engineering",
+      "Artifical Intelligence and Data Science",
+      "Electrical and Electronics Engineering",
+      "Food Technology"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Nitzsche-Stehr",
+    "year_founded": 1997,
+    "city": "aliquam",
+    "state": "Odisha",
+    "country": "India",
+    "courses": [
+      "Mechanical Engineering",
+      "Chemical Engineering",
+      "Electrical and Electronics Engineering",
+      "Aerospace Engineering",
+      "Automobile Engineering"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Wuckert, Herzog and Rippin",
+    "year_founded": 2008,
+    "city": "ut",
+    "state": "Maharashtra",
+    "country": "India",
+    "courses": [
+      "Civil Engineering",
+      "Computer Science and Engineering",
+      "Aerospace Engineering",
+      "Bio-Medical Engineering",
+      "Artifical Intelligence and Data Science"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Pouros, Rice and Gleason",
+    "year_founded": 2001,
+    "city": "tristique",
+    "state": "Mizoram",
+    "country": "India",
+    "courses": [
+      "Information Techology",
+      "Electrical and Electronics Engineering",
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Conn-Romaguera",
+    "year_founded": 2003,
+    "city": "semper",
+    "state": "Maharashtra",
+    "country": "India",
+    "courses": [
+      "Bio-Medical Engineering",
+      "Mechanical Engineering",
+      "Information Techology",
+      "Electronics and Communication Engineering",
+      "Aerospace Engineering"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Kassulke-Prohaska",
+    "year_founded": 2012,
+    "city": "nulla",
+    "state": "Punjab",
+    "country": "India",
+    "courses": [
+      "Computer Science and Engineering",
+      "Information Techology",
+      "Artifical Intelligence and Data Science",
+      "Mechanical Engineering",
+      "Automobile Engineering"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Blick, Abbott and Streich",
+    "year_founded": 2001,
+    "city": "cursus",
+    "state": "Mizoram",
+    "country": "India",
+    "courses": [
+      "Bio-Medical Engineering",
+      "Electronics and Communication Engineering",
+      "Bio-Technology",
+      "Electrical and Electronics Engineering",
+      "Aerospace Engineering"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Upton Group",
+    "year_founded": 2009,
+    "city": "diam",
+    "state": "Odisha",
+    "country": "India",
+    "courses": [
+      "Aerospace Engineering",
+      "Chemical Engineering",
+      "Food Technology",
+      "Mechanical Engineering",
+      "Bio-Medical Engineering"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Reichel, Parker and Mayert",
+    "year_founded": 2002,
+    "city": "eleifend",
+    "state": "Gujarat",
+    "country": "India",
+    "courses": [
+      "Artifical Intelligence and Data Science",
+      "Bio-Technology",
+      "Bio-Medical Engineering",
+      "Chemical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Hills, Prosacco and Schneider",
+    "year_founded": 2002,
+    "city": "vestibulum",
+    "state": "Kerala",
+    "country": "India",
+    "courses": [
+      "Computer Science and Engineering",
+      "Information Techology",
+      "Civil Engineering",
+      "Automobile Engineering",
+      "Bio-Chemistry"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Reynolds and Sons",
+    "year_founded": 1998,
+    "city": "neque",
+    "state": "Maharashtra",
+    "country": "India",
+    "courses": [
+      "Artifical Intelligence and Data Science",
+      "Chemical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Information Techology"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Spinka-Reynolds",
+    "year_founded": 1994,
+    "city": "erat",
+    "state": "Odisha",
+    "country": "India",
+    "courses": [
+      "Civil Engineering",
+      "Information Techology",
+      "Artifical Intelligence and Data Science",
+      "Electronics and Communication Engineering",
+      "Electrical and Electronics Engineering"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Donnelly, Sauer and Wilkinson",
+    "year_founded": 1997,
+    "city": "purus",
+    "state": "Uttarakhand",
+    "country": "India",
+    "courses": [
+      "Information Techology",
+      "Chemical Engineering",
+      "Bio-Chemistry",
+      "Electrical and Electronics Engineering",
+      "Bio-Technology"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Flatley-Fadel",
+    "year_founded": 1997,
+    "city": "eleifend",
+    "state": "Punjab",
+    "country": "India",
+    "courses": [
+      "Mechanical Engineering",
+      "Chemical Engineering",
+      "Electronics and Communication Engineering",
+      "Information Techology",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Gaylord-Renner",
+    "year_founded": 1967,
+    "city": "vel",
+    "state": "Gujarat",
+    "country": "India",
+    "courses": [
+      "Mechanical Engineering",
+      "Automobile Engineering",
+      "Chemical Engineering",
+      "Artifical Intelligence and Data Science",
+      "Bio-Chemistry"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Koepp-Rowe",
+    "year_founded": 1997,
+    "city": "orci",
+    "state": "Gujarat",
+    "country": "India",
+    "courses": [
+      "Mechanical Engineering",
+      "Chemical Engineering",
+      "Civil Engineering",
+      "Artifical Intelligence and Data Science",
+      "Aerospace Engineering"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "MacGyver Inc",
+    "year_founded": 1987,
+    "city": "nibh",
+    "state": "Nagaland",
+    "country": "India",
+    "courses": [
+      "Bio-Technology",
+      "Bio-Chemistry",
+      "Computer Science and Engineering",
+      "Mechanical Engineering",
+      "Information Techology"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Zulauf-Herzog",
+    "year_founded": 2010,
+    "city": "nibh",
+    "state": "Chhattisgarh",
+    "country": "India",
+    "courses": [
+      "Bio-Chemistry",
+      "Electronics and Communication Engineering",
+      "Bio-Medical Engineering",
+      "Chemical Engineering",
+      "Automobile Engineering"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Dicki LLC",
+    "year_founded": 1996,
+    "city": "ornare",
+    "state": "Chhattisgarh",
+    "country": "India",
+    "courses": [
+      "Civil Engineering",
+      "Electronics and Communication Engineering",
+      "Bio-Medical Engineering",
+      "Mechanical Engineering",
+      "Computer Science and Engineering"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Stamm-Ziemann",
+    "year_founded": 2001,
+    "city": "in",
+    "state": "Nagaland",
+    "country": "India",
+    "courses": [
+      "Bio-Medical Engineering",
+      "Automobile Engineering",
+      "Artifical Intelligence and Data Science",
+      "Bio-Technology",
+      "Aerospace Engineering"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Rolfson, Considine and Dare",
+    "year_founded": 2010,
+    "city": "mauris",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "courses": [
+      "Chemical Engineering",
+      "Bio-Chemistry",
+      "Aerospace Engineering",
+      "Electrical and Electronics Engineering",
+      "Information Techology"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Ryan LLC",
+    "year_founded": 1993,
+    "city": "in",
+    "state": "Karnataka",
+    "country": "India",
+    "courses": [
+      "Food Technology",
+      "Bio-Medical Engineering",
+      "Mechanical Engineering",
+      "Aerospace Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Quitzon Group",
+    "year_founded": 1996,
+    "city": "amet",
+    "state": "West Bengal",
+    "country": "India",
+    "courses": [
+      "Civil Engineering",
+      "Electronics and Communication Engineering",
+      "Chemical Engineering",
+      "Electrical and Electronics Engineering",
+      "Food Technology"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Rogahn-Marvin",
+    "year_founded": 2006,
+    "city": "porta",
+    "state": "West Bengal",
+    "country": "India",
+    "courses": [
+      "Bio-Technology",
+      "Mechanical Engineering",
+      "Electrical and Electronics Engineering",
+      "Bio-Medical Engineering",
+      "Computer Science and Engineering"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Wiegand and Sons",
+    "year_founded": 2003,
+    "city": "tortor",
+    "state": "Mizoram",
+    "country": "India",
+    "courses": [
+      "Information Techology",
+      "Computer Science and Engineering",
+      "Automobile Engineering",
+      "Food Technology",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Hyatt, Rutherford and Labadie",
+    "year_founded": 2007,
+    "city": "proin",
+    "state": "Meghalaya",
+    "country": "India",
+    "courses": [
+      "Bio-Chemistry",
+      "Civil Engineering",
+      "Food Technology",
+      "Electronics and Communication Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Kertzmann Inc",
+    "year_founded": 1985,
+    "city": "pede",
+    "state": "Uttarakhand",
+    "country": "India",
+    "courses": [
+      "Aerospace Engineering",
+      "Computer Science and Engineering",
+      "Bio-Medical Engineering",
+      "Chemical Engineering",
+      "Electrical and Electronics Engineering"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Hudson-Watsica",
+    "year_founded": 2011,
+    "city": "ligula",
+    "state": "Jharkhand",
+    "country": "India",
+    "courses": [
+      "Mechanical Engineering",
+      "Electrical and Electronics Engineering",
+      "Bio-Technology",
+      "Aerospace Engineering",
+      "Artifical Intelligence and Data Science"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Zboncak and Sons",
+    "year_founded": 2009,
+    "city": "odio",
+    "state": "Jharkhand",
+    "country": "India",
+    "courses": [
+      "Computer Science and Engineering",
+      "Bio-Medical Engineering",
+      "Aerospace Engineering",
+      "Information Techology",
+      "Electrical and Electronics Engineering"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Crist and Sons",
+    "year_founded": 1995,
+    "city": "magna",
+    "state": "Chhattisgarh",
+    "country": "India",
+    "courses": [
+      "Electrical and Electronics Engineering",
+      "Computer Science and Engineering",
+      "Artifical Intelligence and Data Science",
+      "Bio-Medical Engineering",
+      "Information Techology"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Roob, Nolan and Feil",
+    "year_founded": 1999,
+    "city": "vestibulum",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "courses": [
+      "Electrical and Electronics Engineering",
+      "Aerospace Engineering",
+      "Food Technology",
+      "Electronics and Communication Engineering",
+      "Bio-Technology"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Cormier LLC",
+    "year_founded": 2008,
+    "city": "augue",
+    "state": "West Bengal",
+    "country": "India",
+    "courses": [
+      "Electrical and Electronics Engineering",
+      "Mechanical Engineering",
+      "Information Techology",
+      "Chemical Engineering",
+      "Computer Science and Engineering"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Blanda-Deckow",
+    "year_founded": 2011,
+    "city": "justo",
+    "state": "Maharashtra",
+    "country": "India",
+    "courses": [
+      "Information Techology",
+      "Automobile Engineering",
+      "Chemical Engineering",
+      "Civil Engineering",
+      "Bio-Technology"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Renner, Prosacco and Jaskolski",
+    "year_founded": 2006,
+    "city": "phasellus",
+    "state": "Tripura",
+    "country": "India",
+    "courses": [
+      "Information Techology",
+      "Electronics and Communication Engineering",
+      "Chemical Engineering",
+      "Aerospace Engineering",
+      "Bio-Technology"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Pfannerstill, Considine and Davis",
+    "year_founded": 2002,
+    "city": "eget",
+    "state": "West Bengal",
+    "country": "India",
+    "courses": [
+      "Bio-Technology",
+      "Artifical Intelligence and Data Science",
+      "Automobile Engineering",
+      "Bio-Chemistry",
+      "Food Technology"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Rohan Group",
+    "year_founded": 2001,
+    "city": "pulvinar",
+    "state": "Nagaland",
+    "country": "India",
+    "courses": [
+      "Chemical Engineering",
+      "Information Techology",
+      "Automobile Engineering",
+      "Artifical Intelligence and Data Science",
+      "Food Technology"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Bartoletti-Heidenreich",
+    "year_founded": 1989,
+    "city": "non",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "courses": [
+      "Automobile Engineering",
+      "Bio-Technology",
+      "Civil Engineering",
+      "Bio-Medical Engineering",
+      "Aerospace Engineering"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Adams Inc",
+    "year_founded": 2011,
+    "city": "sem",
+    "state": "Odisha",
+    "country": "India",
+    "courses": [
+      "Aerospace Engineering",
+      "Bio-Medical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Becker, Schumm and Wintheiser",
+    "year_founded": 1996,
+    "city": "eget",
+    "state": "Meghalaya",
+    "country": "India",
+    "courses": [
+      "Chemical Engineering",
+      "Food Technology",
+      "Electrical and Electronics Engineering",
+      "Automobile Engineering",
+      "Bio-Chemistry"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Jacobs Inc",
+    "year_founded": 1996,
+    "city": "vel",
+    "state": "West Bengal",
+    "country": "India",
+    "courses": [
+      "Artifical Intelligence and Data Science",
+      "Computer Science and Engineering",
+      "Mechanical Engineering",
+      "Electronics and Communication Engineering",
+      "Bio-Chemistry"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Greenholt, Koelpin and Langosh",
+    "year_founded": 1991,
+    "city": "integer",
+    "state": "Karnataka",
+    "country": "India",
+    "courses": [
+      "Chemical Engineering",
+      "Bio-Medical Engineering",
+      "Information Techology",
+      "Civil Engineering",
+      "Aerospace Engineering"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Purdy, Yost and Rau",
+    "year_founded": 1996,
+    "city": "turpis",
+    "state": "Meghalaya",
+    "country": "India",
+    "courses": [
+      "Electronics and Communication Engineering",
+      "Aerospace Engineering",
+      "Bio-Chemistry",
+      "Civil Engineering",
+      "Information Techology"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Jerde LLC",
+    "year_founded": 1987,
+    "city": "suscipit",
+    "state": "Karnataka",
+    "country": "India",
+    "courses": [
+      "Mechanical Engineering",
+      "Electronics and Communication Engineering",
+      "Computer Science and Engineering",
+      "Information Techology",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Turcotte LLC",
+    "year_founded": 1997,
+    "city": "dolor",
+    "state": "Maharashtra",
+    "country": "India",
+    "courses": [
+      "Bio-Medical Engineering",
+      "Electronics and Communication Engineering",
+      "Aerospace Engineering",
+      "Civil Engineering",
+      "Food Technology"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Stanton LLC",
+    "year_founded": 2002,
+    "city": "augue",
+    "state": "Gujarat",
+    "country": "India",
+    "courses": [
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Artifical Intelligence and Data Science",
+      "Automobile Engineering",
+      "Bio-Technology"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Weber-Legros",
+    "year_founded": 2007,
+    "city": "ipsum",
+    "state": "Goa",
+    "country": "India",
+    "courses": [
+      "Computer Science and Engineering",
+      "Food Technology",
+      "Bio-Technology",
+      "Chemical Engineering",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Crona, Pfeffer and Cruickshank",
+    "year_founded": 2013,
+    "city": "vivamus",
+    "state": "Karnataka",
+    "country": "India",
+    "courses": [
+      "Mechanical Engineering",
+      "Food Technology",
+      "Bio-Chemistry",
+      "Bio-Technology",
+      "Aerospace Engineering"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Ward, Marks and Barton",
+    "year_founded": 2001,
+    "city": "pulvinar",
+    "state": "Uttarakhand",
+    "country": "India",
+    "courses": [
+      "Artifical Intelligence and Data Science",
+      "Information Techology",
+      "Bio-Chemistry",
+      "Mechanical Engineering",
+      "Automobile Engineering"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Lockman-Steuber",
+    "year_founded": 2006,
+    "city": "vestibulum",
+    "state": "Arunachal Pradesh",
+    "country": "India",
+    "courses": [
+      "Electronics and Communication Engineering",
+      "Bio-Chemistry",
+      "Food Technology",
+      "Bio-Technology",
+      "Computer Science and Engineering"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Vandervort-Kassulke",
+    "year_founded": 2012,
+    "city": "mus",
+    "state": "Meghalaya",
+    "country": "India",
+    "courses": [
+      "Mechanical Engineering",
+      "Food Technology",
+      "Bio-Technology",
+      "Electrical and Electronics Engineering",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Sporer, Walsh and Dicki",
+    "year_founded": 2001,
+    "city": "tempus",
+    "state": "Odisha",
+    "country": "India",
+    "courses": [
+      "Electronics and Communication Engineering",
+      "Computer Science and Engineering",
+      "Civil Engineering",
+      "Electrical and Electronics Engineering",
+      "Automobile Engineering"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Gleason, Lang and Tromp",
+    "year_founded": 1993,
+    "city": "orci",
+    "state": "Nagaland",
+    "country": "India",
+    "courses": [
+      "Artifical Intelligence and Data Science",
+      "Bio-Medical Engineering",
+      "Aerospace Engineering",
+      "Automobile Engineering",
+      "Electrical and Electronics Engineering"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Schinner-Reichel",
+    "year_founded": 2007,
+    "city": "nunc",
+    "state": "Haryana",
+    "country": "India",
+    "courses": [
+      "Electronics and Communication Engineering",
+      "Bio-Medical Engineering",
+      "Computer Science and Engineering",
+      "Food Technology",
+      "Bio-Technology"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Mraz Group",
+    "year_founded": 2009,
+    "city": "habitasse",
+    "state": "Mizoram",
+    "country": "India",
+    "courses": [
+      "Bio-Technology",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Automobile Engineering",
+      "Computer Science and Engineering"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Treutel, Waelchi and Jast",
+    "year_founded": 2009,
+    "city": "et",
+    "state": "Manipur",
+    "country": "India",
+    "courses": [
+      "Aerospace Engineering",
+      "Bio-Technology",
+      "Chemical Engineering",
+      "Food Technology",
+      "Information Techology"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Douglas-Hickle",
+    "year_founded": 1990,
+    "city": "pede",
+    "state": "Uttarakhand",
+    "country": "India",
+    "courses": [
+      "Food Technology",
+      "Bio-Chemistry",
+      "Automobile Engineering",
+      "Chemical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Dickinson Inc",
+    "year_founded": 1992,
+    "city": "tristique",
+    "state": "West Bengal",
+    "country": "India",
+    "courses": [
+      "Mechanical Engineering",
+      "Information Techology",
+      "Automobile Engineering",
+      "Computer Science and Engineering",
+      "Food Technology"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Berge LLC",
+    "year_founded": 1997,
+    "city": "magna",
+    "state": "Odisha",
+    "country": "India",
+    "courses": [
+      "Chemical Engineering",
+      "Civil Engineering",
+      "Bio-Chemistry",
+      "Information Techology",
+      "Automobile Engineering"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Torp-Kulas",
+    "year_founded": 1994,
+    "city": "maecenas",
+    "state": "Manipur",
+    "country": "India",
+    "courses": [
+      "Automobile Engineering",
+      "Chemical Engineering",
+      "Artifical Intelligence and Data Science",
+      "Bio-Medical Engineering",
+      "Aerospace Engineering"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Heathcote, Nader and Leffler",
+    "year_founded": 2011,
+    "city": "faucibus",
+    "state": "Kerala",
+    "country": "India",
+    "courses": [
+      "Automobile Engineering",
+      "Bio-Technology",
+      "Food Technology",
+      "Computer Science and Engineering",
+      "Bio-Chemistry"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Crooks, Stoltenberg and Rogahn",
+    "year_founded": 1995,
+    "city": "nulla",
+    "state": "Maharashtra",
+    "country": "India",
+    "courses": [
+      "Civil Engineering",
+      "Computer Science and Engineering",
+      "Food Technology",
+      "Electronics and Communication Engineering",
+      "Bio-Technology"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Farrell-Schulist",
+    "year_founded": 2002,
+    "city": "pede",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "courses": [
+      "Bio-Chemistry",
+      "Electrical and Electronics Engineering",
+      "Mechanical Engineering",
+      "Artifical Intelligence and Data Science",
+      "Automobile Engineering"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Herman-Satterfield",
+    "year_founded": 1996,
+    "city": "ante",
+    "state": "Telangana",
+    "country": "India",
+    "courses": [
+      "Mechanical Engineering",
+      "Food Technology",
+      "Computer Science and Engineering",
+      "Civil Engineering",
+      "Aerospace Engineering"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Morar LLC",
+    "year_founded": 2008,
+    "city": "id",
+    "state": "Kerala",
+    "country": "India",
+    "courses": [
+      "Aerospace Engineering",
+      "Bio-Chemistry",
+      "Bio-Technology",
+      "Food Technology",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Rowe LLC",
+    "year_founded": 2005,
+    "city": "cras",
+    "state": "Arunachal Pradesh",
+    "country": "India",
+    "courses": [
+      "Aerospace Engineering",
+      "Electronics and Communication Engineering",
+      "Civil Engineering",
+      "Computer Science and Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Aufderhar, Dickens and Jast",
+    "year_founded": 2012,
+    "city": "leo",
+    "state": "Kerala",
+    "country": "India",
+    "courses": [
+      "Artifical Intelligence and Data Science",
+      "Civil Engineering",
+      "Information Techology",
+      "Bio-Chemistry",
+      "Electrical and Electronics Engineering"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Reynolds Inc",
+    "year_founded": 1992,
+    "city": "morbi",
+    "state": "Arunachal Pradesh",
+    "country": "India",
+    "courses": [
+      "Chemical Engineering",
+      "Bio-Technology",
+      "Civil Engineering",
+      "Electrical and Electronics Engineering",
+      "Food Technology"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Hessel, Wolf and Corkery",
+    "year_founded": 2012,
+    "city": "id",
+    "state": "Jharkhand",
+    "country": "India",
+    "courses": [
+      "Mechanical Engineering",
+      "Computer Science and Engineering",
+      "Information Techology",
+      "Aerospace Engineering",
+      "Chemical Engineering"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Zieme, Block and Mante",
+    "year_founded": 1987,
+    "city": "etiam",
+    "state": "Rajasthan",
+    "country": "India",
+    "courses": [
+      "Mechanical Engineering",
+      "Artifical Intelligence and Data Science",
+      "Bio-Medical Engineering",
+      "Electrical and Electronics Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Halvorson LLC",
+    "year_founded": 1994,
+    "city": "at",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "courses": [
+      "Electrical and Electronics Engineering",
+      "Computer Science and Engineering",
+      "Food Technology",
+      "Bio-Medical Engineering",
+      "Chemical Engineering"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "McClure LLC",
+    "year_founded": 1967,
+    "city": "duis",
+    "state": "Manipur",
+    "country": "India",
+    "courses": [
+      "Mechanical Engineering",
+      "Artifical Intelligence and Data Science",
+      "Automobile Engineering",
+      "Electronics and Communication Engineering",
+      "Bio-Chemistry"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Bashirian, Gleichner and Pfannerstill",
+    "year_founded": 1997,
+    "city": "ligula",
+    "state": "Nagaland",
+    "country": "India",
+    "courses": [
+      "Food Technology",
+      "Bio-Chemistry",
+      "Bio-Technology",
+      "Civil Engineering",
+      "Automobile Engineering"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Hessel-Spinka",
+    "year_founded": 2005,
+    "city": "aliquet",
+    "state": "Kerala",
+    "country": "India",
+    "courses": [
+      "Mechanical Engineering",
+      "Aerospace Engineering",
+      "Automobile Engineering",
+      "Chemical Engineering",
+      "Food Technology"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Abbott LLC",
+    "year_founded": 2011,
+    "city": "vel",
+    "state": "Chhattisgarh",
+    "country": "India",
+    "courses": [
+      "Bio-Technology",
+      "Electrical and Electronics Engineering",
+      "Information Techology",
+      "Chemical Engineering",
+      "Computer Science and Engineering"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Rogahn-Kub",
+    "year_founded": 1995,
+    "city": "cursus",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "courses": [
+      "Information Techology",
+      "Automobile Engineering",
+      "Civil Engineering",
+      "Electronics and Communication Engineering",
+      "Aerospace Engineering"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Legros, McKenzie and Gerlach",
+    "year_founded": 2011,
+    "city": "a",
+    "state": "Punjab",
+    "country": "India",
+    "courses": [
+      "Electrical and Electronics Engineering",
+      "Bio-Medical Engineering",
+      "Aerospace Engineering",
+      "Automobile Engineering",
+      "Artifical Intelligence and Data Science"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Schmidt and Sons",
+    "year_founded": 1993,
+    "city": "sem",
+    "state": "Rajasthan",
+    "country": "India",
+    "courses": [
+      "Artifical Intelligence and Data Science",
+      "Electrical and Electronics Engineering",
+      "Information Techology",
+      "Food Technology",
+      "Automobile Engineering"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Welch-Tillman",
+    "year_founded": 2006,
+    "city": "pulvinar",
+    "state": "West Bengal",
+    "country": "India",
+    "courses": [
+      "Bio-Technology",
+      "Chemical Engineering",
+      "Civil Engineering",
+      "Electronics and Communication Engineering",
+      "Food Technology"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Johns-Larson",
+    "year_founded": 2008,
+    "city": "non",
+    "state": "Punjab",
+    "country": "India",
+    "courses": [
+      "Information Techology",
+      "Electrical and Electronics Engineering",
+      "Mechanical Engineering",
+      "Food Technology",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Abernathy, Crooks and Tromp",
+    "year_founded": 2011,
+    "city": "congue",
+    "state": "Jharkhand",
+    "country": "India",
+    "courses": [
+      "Electrical and Electronics Engineering",
+      "Mechanical Engineering",
+      "Bio-Technology",
+      "Food Technology",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Larson and Sons",
+    "year_founded": 2004,
+    "city": "vulputate",
+    "state": "Telangana",
+    "country": "India",
+    "courses": [
+      "Civil Engineering",
+      "Automobile Engineering",
+      "Aerospace Engineering",
+      "Artifical Intelligence and Data Science",
+      "Computer Science and Engineering"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "O'Connell, Bradtke and Herman",
+    "year_founded": 2000,
+    "city": "laoreet",
+    "state": "Mizoram",
+    "country": "India",
+    "courses": [
+      "Bio-Technology",
+      "Computer Science and Engineering",
+      "Information Techology",
+      "Bio-Chemistry",
+      "Aerospace Engineering"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Nolan and Sons",
+    "year_founded": 2000,
+    "city": "quis",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "courses": [
+      "Automobile Engineering",
+      "Chemical Engineering",
+      "Bio-Technology",
+      "Electrical and Electronics Engineering",
+      "Computer Science and Engineering"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Kihn-Simonis",
+    "year_founded": 2005,
+    "city": "tellus",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "courses": [
+      "Automobile Engineering",
+      "Mechanical Engineering",
+      "Electronics and Communication Engineering",
+      "Computer Science and Engineering",
+      "Bio-Chemistry"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Renner Inc",
+    "year_founded": 2000,
+    "city": "sit",
+    "state": "  Bihar",
+    "country": "India",
+    "courses": [
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Bio-Medical Engineering",
+      "Electronics and Communication Engineering",
+      "Electrical and Electronics Engineering"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Hilpert, Reichert and Mosciski",
+    "year_founded": 2005,
+    "city": "nunc",
+    "state": "Punjab",
+    "country": "India",
+    "courses": [
+      "Mechanical Engineering",
+      "Bio-Medical Engineering",
+      "Aerospace Engineering",
+      "Electrical and Electronics Engineering",
+      "Bio-Chemistry"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Willms-Hills",
+    "year_founded": 2003,
+    "city": "mauris",
+    "state": "Rajasthan",
+    "country": "India",
+    "courses": [
+      "Bio-Chemistry",
+      "Automobile Engineering",
+      "Food Technology",
+      "Computer Science and Engineering",
+      "Information Techology"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Blanda-Cronin",
+    "year_founded": 2006,
+    "city": "etiam",
+    "state": "Jharkhand",
+    "country": "India",
+    "courses": [
+      "Bio-Technology",
+      "Electronics and Communication Engineering",
+      "Automobile Engineering",
+      "Aerospace Engineering",
+      "Computer Science and Engineering"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Kunde, Waelchi and Cormier",
+    "year_founded": 1995,
+    "city": "dolor",
+    "state": "Arunachal Pradesh",
+    "country": "India",
+    "courses": [
+      "Information Techology",
+      "Aerospace Engineering",
+      "Computer Science and Engineering",
+      "Bio-Medical Engineering",
+      "Artifical Intelligence and Data Science"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Runolfsdottir Inc",
+    "year_founded": 1991,
+    "city": "et",
+    "state": "Odisha",
+    "country": "India",
+    "courses": [
+      "Civil Engineering",
+      "Information Techology",
+      "Bio-Medical Engineering",
+      "Food Technology",
+      "Electrical and Electronics Engineering"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Gleason, Schumm and Jones",
+    "year_founded": 2004,
+    "city": "amet",
+    "state": "Manipur",
+    "country": "India",
+    "courses": [
+      "Aerospace Engineering",
+      "Mechanical Engineering",
+      "Bio-Chemistry",
+      "Bio-Medical Engineering",
+      "Information Techology"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Hettinger LLC",
+    "year_founded": 1992,
+    "city": "sed",
+    "state": "Haryana",
+    "country": "India",
+    "courses": [
+      "Bio-Chemistry",
+      "Computer Science and Engineering",
+      "Food Technology",
+      "Bio-Medical Engineering",
+      "Electrical and Electronics Engineering"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Hettinger Group",
+    "year_founded": 2000,
+    "city": "nunc",
+    "state": "Arunachal Pradesh",
+    "country": "India",
+    "courses": [
+      "Chemical Engineering",
+      "Mechanical Engineering",
+      "Electrical and Electronics Engineering",
+      "Electronics and Communication Engineering",
+      "Bio-Chemistry"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Flatley-Hilpert",
+    "year_founded": 1993,
+    "city": "eu",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "courses": [
+      "Bio-Chemistry",
+      "Bio-Technology",
+      "Artifical Intelligence and Data Science",
+      "Civil Engineering",
+      "Mechanical Engineering"
+    ]
+  }
+]
